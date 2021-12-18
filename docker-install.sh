@@ -19,3 +19,12 @@ sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io -y
 
 sudo pip install docker-compose
+
+
+docker pull odoo:10.0
+docker pull odoo:11.0
+docker pull odoo:12.0
+docker pull odoo:13.0
+docker pull odoo:14.0
+docker pull odoo:15.0
+
